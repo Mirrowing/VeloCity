@@ -1,0 +1,7 @@
+/* -- Header container -- */
+.header {width: 100%; background-color: #fff;}
+.header-wrapper {flex-direction: row; justify-content: space-between;}
+/* -- Logotype container -- */
+.logo { padding: 20px;}
+/* -- Navigation container -- */
+.nav-menu { padding: 20px;}
